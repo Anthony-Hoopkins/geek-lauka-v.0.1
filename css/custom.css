@@ -405,11 +405,9 @@ form .row:first-child .floating-label-form-group {
   margin-bottom: 90px;
 }
 
-@media (min-width: 768px)  {
-  form.form-inline input.form-control{
-    font-size: 14px;
-    margin: 10px;
-  }
+form.form-inline input.form-control{
+  font-size: 14px;
+  margin: 10px;
 }
 
 form.form-inline{
